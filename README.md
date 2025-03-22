@@ -1,4 +1,4 @@
-# uniao_pdf
+# uniao_pdf_offline
 Código para mesclar PDFs separados em um único arquivo PDF no mesmo diretório.
 
  Explicação linha por linha:
